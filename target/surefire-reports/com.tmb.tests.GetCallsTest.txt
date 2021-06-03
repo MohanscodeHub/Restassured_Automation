@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.tmb.tests.GetCallsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.403 sec <<< FAILURE!
+getEmployeesTest(com.tmb.tests.GetCallsTest)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problems: 
+	The method assertThat(int) is undefined for the type GetCallsTest
+	Syntax error, insert ";" to complete Statement
+
+	at com.tmb.tests.GetCallsTest.getEmployeesTest(GetCallsTest.java:23)
+
